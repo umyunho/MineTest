@@ -1,0 +1,4 @@
+name: MineTest
+version: '1.0-SNAPSHOT'
+main: Ris.mineTest.MineTest
+api-version: '1.21'
